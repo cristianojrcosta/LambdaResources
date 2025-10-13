@@ -6,7 +6,7 @@ namespace LambdaResources
     /// Provides information about the current Lambda environment (CPU, Memory, etc.)
     /// </summary>
     [OSInterface(
-        Description = "AWS Lambda environment information: memory, CPU count, and current usage.",
+        Description = "AWS Lambda environment information: memory, CPU count, and current usage",
         Name = "LambdaInfo"
     )]
     public interface ILambdaInfo
