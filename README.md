@@ -26,3 +26,6 @@ Clone the repository and build the project:
 git clone https://github.com/<your-username>/lambda-resources.git
 cd lambda-resources
 dotnet build
+
+## 📦 ODC
+dotnet publish -c Release -r linux-x64 --no-self-contained
