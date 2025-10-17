@@ -5,7 +5,6 @@ Lambda Resources is a lightweight C# utility that monitors and displays real-tim
 ---
 
 ## 🚀 Features
-- 🔍 Tracks **CPU usage** in real time  
 - 💾 Monitors **memory consumption** (RAM)  
 - 📊 Displays simple and clear system stats  
 - 🧩 Built in C# with cross-platform .NET support  
@@ -26,6 +25,3 @@ Clone the repository and build the project:
 git clone https://github.com/<your-username>/lambda-resources.git
 cd lambda-resources
 dotnet build
-
-## 📦 ODC
-dotnet publish -c Release -r linux-x64 --no-self-contained
