@@ -13,7 +13,7 @@ Lambda Resources is a lightweight C# utility that monitors and displays real-tim
 ---
 
 ## 🛠️ Requirements
-- [.NET 8 SDK or later](https://dotnet.microsoft.com/en-us/download)
+- [.NET 10 SDK or later](https://dotnet.microsoft.com/en-us/download)
 - Windows, Linux, or macOS
 
 ---
